@@ -90,21 +90,19 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                I have strong skills in full-stack development using HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB. I also have knowledge of Java and C programming. I build responsive, scalable, and user-friendly web applications, focusing on performance, clean code practices, and solving real-world problems through efficient development.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
+                <div className="what-tags">HTML</div>
+                <div className="what-tags">CSS</div>
                 <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
                 <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
                 <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
                 <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">MongoDB</div>
+                <div className="what-tags">Java</div>
+                <div className="what-tags">C</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -131,19 +129,15 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                I create intuitive and visually appealing designs using Figma and Stitch. I focus on user experience, clean layouts, and modern UI trends. My design process includes wireframing, prototyping, and usability improvements to ensure seamless interaction between users and applications, making products both functional and aesthetically engaging.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Figma</div>
+                <div className="what-tags">Stitch</div>
+                <div className="what-tags">UI/UX Design</div>
+                <div className="what-tags">Wireframing</div>
+                <div className="what-tags">Prototyping</div>
               </div>
               <div className="what-arrow"></div>
             </div>
